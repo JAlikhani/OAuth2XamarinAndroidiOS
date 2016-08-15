@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text UsernameLabel" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text Username; Hint UsernameTip" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text PasswordLabel" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text Password; Hint PasswordTip" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#ff0000"
+        local:MvxBind="Text LoginButtonLabel; Click LoginCommand" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text Username" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text Password" />
+    <LinearLayout 
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:gravity="center|bottom">
+        <ImageView
+          android:layout_width="64dp"
+          android:layout_height="64dp"
+          android:src="@drawable/Google"
+          android:scaleType="fitCenter"
+          android:layout_weight="1"
+          local:MvxBind="Click GoogleCommand"/>
+        <ImageView
+          android:layout_width="64dp"
+          android:layout_height="64dp"
+          android:src="@drawable/Facebook"
+          android:scaleType="fitCenter"
+          android:layout_weight="1"
+          local:MvxBind="Click FacebookCommand"/>
+        <ImageView
+          android:layout_width="64dp"
+          android:layout_height="64dp"
+          android:src="@drawable/Twitter"
+          android:scaleType="fitCenter"
+          android:layout_weight="1"
+          local:MvxBind="Click TwitterCommand"/>
+    </LinearLayout>
+</LinearLayout>

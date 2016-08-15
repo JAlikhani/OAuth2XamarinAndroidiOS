@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\Xamarin.Auth\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\Xamarin.Auth\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Prj\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS\OAuth2MVVMLoginXamarinAndroidiOS.Droid\obj\Debug\__library_projects__\Xamarin.Auth.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
